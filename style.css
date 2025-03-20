@@ -1,0 +1,25 @@
+body {
+    background-color: #F5F5F5; /* Цвет фона */
+	font-family:'Verdana';     /* Шрифт текста */
+	padding: 20px;             /* Отступ по краям элемента body */
+}
+
+h1 {
+	text-align: center;        /* Выравнивание текста: по центру */
+	color: #4A3C88;            /* Цвет текста */
+	margin-bottom: 30px;       /* Нижний отступ заголовка h1 */
+}
+
+h2, h3 {
+    text-transform: uppercase; /* Шрифт заглавными символами */
+    color: #738695;            /* Цвет шрифта */
+}
+
+h2 span {
+	text-transform: initial;   /* Шрифт обычными символами */
+}
+
+.cursiv {
+	font-size: 12px;           /* Размер шрифта */
+    font-style: italic;        /* Шрифт курсивом */
+}
